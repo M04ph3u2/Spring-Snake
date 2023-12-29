@@ -1,4 +1,5 @@
 # Spring Snake
+<pre>
                             __..._                 |
                         ..-'      o.             .'|'.
                      .-'            :           /.'|\ \
@@ -26,6 +27,7 @@
              .'   :                             
            .' .--'                              
           '--'
+</pre>
 
 ## Description
 Spring Snake is a project that allows you to save and retrieve key-value data using Python and Spring Boot APIs. It consists of a Python CLI client and a dockerized Spring Boot + MongoDB backend service.
@@ -36,7 +38,7 @@ Spring Snake is a project that allows you to save and retrieve key-value data us
 
 ## Installation of the Docker component
 1. Clone the repository at https://github.com/M04ph3u2/Spring-Snake
-2. Navigate to the project directory: `cd springsnake`
+2. Navigate to the project directory: `d springsnake`
 3. Build and start the Docker containers: `docker-compose up -d`
 
 ## Running of the Python CLI client
