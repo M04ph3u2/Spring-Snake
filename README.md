@@ -1,4 +1,31 @@
 # Spring Snake
+                            __..._                 |
+                        ..-'      o.             .'|'.
+                     .-'            :           /.'|\ \
+                 _..'             .'__..--<     | /|'.|
+          ...--""                 '-.            \ |\/
+      ..-"                       __.'             \|/
+    .'                  ___...--'                  `
+   :        ____....---'                        
+  :       .'                                    
+ :       :           _____                      
+ :      :    _..--"""     """--..__             
+:       :  ."                      ""i--.       
+:       '.:                         :    '.     
+:         '--...___i---""""--..___.'      :     
+ :                 ""---...---""          :     
+  '.                                     :      
+    '-.                                 :       
+       '--...                         .'        
+         :   ""---....._____.....---""          
+         '.    '.                               
+           '-..  '.                             
+               '.  :                            
+                : .'                            
+               /  :                             
+             .'   :                             
+           .' .--'                              
+          '--'
 
 ## Description
 Spring Snake is a project that allows you to save and retrieve key-value data using Python and Spring Boot APIs. It consists of a Python CLI client and a dockerized Spring Boot + MongoDB backend service.
