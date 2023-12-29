@@ -31,13 +31,14 @@
 
 ## Description
 Spring Snake is a project that allows you to save and retrieve key-value data using Python and Spring Boot APIs. It consists of a Python CLI client and a dockerized Spring Boot + MongoDB backend service.
+I've been working on this to get myself used to Docker, Python, Spring and Postman API Testing (the collection file has been given too).
 
 ## Prerequisites
 - Docker
 - Python 3.x
 
 ## Installation of the Docker component
-1. Clone the repository at https://github.com/M04ph3u2/Spring-Snake
+1. Clone the repository
 2. Navigate to the project directory: `d springsnake`
 3. Build and start the Docker containers: `docker-compose up -d`
 
